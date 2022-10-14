@@ -1,0 +1,4 @@
+- import: codeql-suites/python-code-scanning.qls
+  from: codeql/python-queries
+- import: codeql-suites/python-lgtm-full.qls
+  from: codeql/python-queries
